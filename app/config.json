@@ -1,7 +1,7 @@
 {
     "versionCode": 330,
     "version":"3.3.0",
-    "desc":"优化了已知问题，提高兼容性",
-    "size":"6.4M",
+    "desc":"支持App内部升级以及下载目录自由设置",
+    "size":"6.5M",
     "downloadUrl":"https://github.com/hackx888/twiget/raw/main/app/Twiget-3.3.0.apk"
 }
