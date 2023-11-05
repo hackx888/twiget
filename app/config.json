@@ -1,7 +1,8 @@
 {
-    "versionCode": 340,
-    "version":"3.4.0",
-    "desc":"修复安卓7.0和8.0老系统上的兼容问题，提升稳定性，非安卓7.0和8.0的手机可以不用更新",
-    "size":"6.5M",
-    "downloadUrl":"https://github.com/hackx888/twiget/releases/download/v3.4.0/Twiget-3.4.0.apk"
+    "versionCode": 350,
+    "version": "3.5.0",
+    "desc": "修复已知问题，新增备用通道，必要时可开启",
+    "size": "6.5M",
+    "downloadUrl": "https://github.com/hackx888/twiget/releases/download/v3.5.0/Twiget-3.5.0.apk",
+    "standby": 0
 }
