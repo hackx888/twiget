@@ -1,7 +1,7 @@
 {
-    "versionCode": 350,
-    "version": "3.5.0",
-    "desc": "修复已知问题，新增备用通道，必要时可开启",
+    "versionCode": 351,
+    "version": "3.5.1",
+    "desc": "修复已知问题，优化体验",
     "size": "6.5M",
     "downloadUrl": "https://github.com/hackx888/twiget/releases/download/v3.5.1/Twiget-3.5.1.apk",
     "standby": 0
