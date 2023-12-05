@@ -1,8 +1,8 @@
 {
-    "versionCode": 351,
-    "version": "3.5.1",
-    "desc": "修复已知问题，优化体验",
+    "versionCode": 352,
+    "version": "3.5.2",
+    "desc": "修复已知问题，增加激活入口",
     "size": "6.5M",
-    "downloadUrl": "https://github.com/hackx888/twiget/releases/download/v3.5.1/Twiget-3.5.1.apk",
+    "downloadUrl": "https://github.com/hackx888/twiget/releases/download/v3.5.2/Twiget-3.5.2.apk",
     "standby": 0
 }
