@@ -1,7 +1,7 @@
 {
     "versionCode": 361,
     "version": "3.6.1",
-    "desc": "修复已知问题，支持多视频解析",
+    "desc": "修复已知问题",
     "size": "6.1M",
     "downloadUrl": "https://github.com/hackx888/twiget/releases/download/v3.6.1/Twiget-3.6.1.apk",
     "standby": 0
