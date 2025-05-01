@@ -1,8 +1,8 @@
 {
-    "versionCode": 363,
-    "version": "3.6.3",
-    "desc": "修复已知问题",
+    "versionCode": 364,
+    "version": "3.6.4",
+    "desc": "优化体验，修复已知问题",
     "size": "6.1M",
-    "downloadUrl": "https://github.com/hackx888/twiget/releases/download/v3.6.3/Twiget-3.6.3.apk",
+    "downloadUrl": "https://github.com/hackx888/twiget/releases/download/v3.6.4/Twiget-3.6.4.apk",
     "standby": 0
 }
