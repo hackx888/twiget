@@ -1,10 +1,11 @@
 {
-    "versionCode": 366,
-    "version": "3.6.6",
-    "desc": "优化体验，修复已知问题",
-    "size": "6.1M",
-    "downloadUrl": "https://github.com/hackx888/twiget/releases/download/v3.6.6/Twiget-3.6.6.apk",
-    "standby": 1,
+    "versionCode": 400,
+    "version": "4.0.0",
+    "desc": "全新升级，全面支持（多）视频、（多）GIF、（多）图片",
+    "size": "6.0M",
+    "downloadUrl": "https://github.com/hackx888/twiget/releases/download/v4.0.0/Twiget-4.0.0.apk",
+    "standby": 0,
     "standby2": 0,
-    "msg": ""
+    "msg": "",
+    "hello": 0
 }
